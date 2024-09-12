@@ -3,6 +3,7 @@ import json
 import hashlib
 from flask import Flask, jsonify
 
+pass = "testPass"
 
 class Blockchain:
     def __init__(self):
